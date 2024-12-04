@@ -4376,7 +4376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f3e0c6835da7b741afb64fa1e1ad2bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneIndex: 0
+  sceneIndex: 1
 --- !u!1 &694178189
 GameObject:
   m_ObjectHideFlags: 0
@@ -4751,7 +4751,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 712836648}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: c04e796af5ea30444888d652460f029d, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: ba3a5db9c1d92cb48a75df27b07f411f, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -8283,7 +8283,7 @@ MonoBehaviour:
   _whenSelect:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1680655459}
+      - m_Target: {fileID: 1117161436}
         m_TargetAssemblyTypeName: SceneChange, Assembly-CSharp
         m_MethodName: ChangeScene
         m_Mode: 1
@@ -8343,7 +8343,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f3e0c6835da7b741afb64fa1e1ad2bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneIndex: 0
+  sceneIndex: 3
 --- !u!1001 &1122272403
 PrefabInstance:
   m_ObjectHideFlags: 0
